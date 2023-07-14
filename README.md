@@ -4,7 +4,7 @@ Design and Development of a Real-time water quality monitoring system for precis
 Documentation:
 Libraries used:
 
-    OneWire: This library allows communication with devices using the one-wire protocol. In this case, it's used to communicate with the DS18B20 temperature sensor.
+    OneWire: This library allows communication with devices using the one-wire protocol. In this case, it's used to communicate with the DS18B20 temperature sensor. 
     
     DallasTemperature: This library provides functions to interact with Dallas Temperature ICs (DS18B20 in this case).
 
